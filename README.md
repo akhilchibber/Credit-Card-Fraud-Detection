@@ -1,6 +1,6 @@
 # Machine Learning based Credit Card Fraud Detection
 <p align="center">
-  <img src="https://github.com/akhilchibber/Credit-Card-Fraud-Detection/tree/main?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Credit-Card-Fraud-Detection/blob/main/Credit-Card.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Dataset
